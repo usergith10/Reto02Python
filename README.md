@@ -1,4 +1,4 @@
-# Reto02Python
+# Consolidador de Boletas y Generador de PDF
 Este es el ejercicio correspondiente al reto 02 en python
 Consolidador de Boletas y Generador de PDF
 Este script de Python está diseñado para consolidar la información de boletas de pago almacenadas en archivos de texto, crear un DataFrame con la información y luego generar un archivo PDF consolidado. También incluye una función para enviar el PDF por correo electrónico Gmail.
