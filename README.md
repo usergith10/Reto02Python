@@ -20,9 +20,6 @@ Ejecuta el script utilizando Python 3:
 python GeneratePdfSendMail.py
 El script procesará los archivos, creará un archivo PDF consolidado llamado consolidado.pdf y lo enviará por correo electrónico.
 
-Configuración de Correo Electrónico Gmail
-Antes de ejecutar el script, asegúrate de configurar la información de correo electrónico en el código fuente:
-
 # Nota:
 Ajusta las siguientes variables en el archivo <b>".env.prod":</b>
 - smtp_port = 587                  (Puerto SMTP)
