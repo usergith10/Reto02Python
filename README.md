@@ -24,10 +24,10 @@ Configuración de Correo Electrónico Gmail
 Antes de ejecutar el script, asegúrate de configurar la información de correo electrónico en el código fuente:
 
 # Nota:
-Ajusta las siguientes variables:
+Ajusta las siguientes variables en el archivo <b>".env.prod":</b>
 - smtp_port = 587                  (Puerto SMTP)
 - smtp_server = "smtp.gmail.com"  (Servidor Google SMTP)
 - email_from: Dirección de correo electrónico remitente.
 - email_to: La dirección de correo electrónico de los destinatarios ("correo1@com,Correo2@net,etc"). 
 - subject = Asunto del correo.
-- pswd: La contraseña de tu dirección de correo electrónico (Recuerda que antes se tiene que configurar Gmail, "Crear y utilizar contraseñas de aplicación").
+- password: La contraseña de tu dirección de correo electrónico (Recuerda que antes se tiene que configurar Gmail, "Crear y utilizar contraseñas de aplicación").
